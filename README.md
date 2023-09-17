@@ -1,2 +1,2 @@
 # algoritmo-curso-em-video
- Curso algoritmo Curso em Vídeo Visualg
+ Curso algoritmo Portugol Curso em Vídeo.Visualg
