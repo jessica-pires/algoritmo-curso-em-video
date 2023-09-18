@@ -15,6 +15,10 @@ inicio
       Se (media >=7) entao
          Escreval("ALUNO APROVADO")
       senao
-           escreval("REPROVADO")
+           Se (media >=5) e (media<7) entao
+              Escreva("ALUNO EM RECUPERACAO")
+           senao
+                Escreval("REPROVADO")
+           Fimse
       Fimse
 fimalgoritmo
