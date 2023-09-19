@@ -15,21 +15,30 @@ inicio
       Escreval("--------------------")
       media <- (Pnota + Snota)/2
       Escreval("MÉDIA:" , media)
-      Escolha media
-              caso 10,9
+      se( media>9)entao
+          Escreva("APROVEITAMENTO A")
+      senao
+           se (media >8)entao
+              Escreva("APROVEITAMENTO B")
+           senao
+                se (media >7)entao
+                   Escreva("APROVEITAMENTO C")
+               senao
+                    se(media >6) entao
+                         Escreva("APROVEITAMENTO D")
+                    senao
+                         se(media >5)entao
+                                Escreva("APROVEITAMENTO E")
+                         senao
+                              se(media <4)entao
+                                   Escreva("APROVEITAMENTO F")
+                              fimSe
+                         fimSe
+                    fimSe
+               fimSe
+               fimSe
+           fimSe
 
-                  Escreva("APROVEITAMENTO A")
-              caso 8
-                  Escreva("APROVEITAMENTO B")
-              caso 7
-                  Escreva("APROVEITAMENTO C")
-              caso 6
-                  Escreva("APROVEITAMENTO D")
-              caso 5
-                  Escreva("APROVEITAMENTO E")
-              caso 4,3,2,1,0
-                  Escreva("APROVEITAMENTO F")
-      Fimescolha
 
-// Seção de Comandos 
+
 fimalgoritmo
