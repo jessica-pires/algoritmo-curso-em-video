@@ -1,8 +1,5 @@
 algoritmo "novoSalario"
-// Função :
-// Autor :
-// Data : 19/09/2023
-// Seção de Declarações 
+          //trabalhando com escolha
 var
       nome: caractere
       salario, Novosalario : real
