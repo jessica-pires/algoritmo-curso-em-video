@@ -1,4 +1,4 @@
-algoritmo "semnome"
+algoritmo "FazSoomaProcedimento"
 //parametros
 var
    X ,Y : inteiro
