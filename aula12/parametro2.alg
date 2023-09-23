@@ -1,7 +1,7 @@
 algoritmo "Paramentro"
 
 // verificador de par ou impar
-//usando rotina
+//usando rotina paramentro de valor
 var
    numero:inteiro
    
