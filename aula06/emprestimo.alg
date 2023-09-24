@@ -1,4 +1,4 @@
-algoritmo "empretimo"
+algoritmo "emprestimo"
 
 var
      emprestimo, juros, vezes:real

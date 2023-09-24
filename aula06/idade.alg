@@ -1,14 +1,10 @@
-algoritmo "Idade"
-
+algoritmo "semnome"
+// Função :
+// Autor :
+// Data : 24/09/2023
+// Seção de Declarações 
 var
-   ano_atual, ano_nasc, idade: inteiro
 
 inicio
-      Escreva("Em que ano estamos? ")
-      Leia(ano_atual)
-      Escreval("Em que ano eu nasci?")
-      Leia(ano_nasc)
-      idade<- ano_atual - ano_nasc
-      Escreva("Minha idade é ",idade)
-      
+// Seção de Comandos 
 fimalgoritmo
